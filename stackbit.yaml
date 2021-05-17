@@ -1590,7 +1590,7 @@ models:
         default: false
   action:
     type: object
-    label: Actionsss
+    label: Actions
     labelField: label
     fields:
       - type: string
