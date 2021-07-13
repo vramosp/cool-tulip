@@ -126,8 +126,7 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
