@@ -127,17 +127,12 @@ sections:
         image_position: left
         image_width: twenty-five
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Alyvia is an amazing content writer. She helped us produce microcopy
+          for our apps in all levels of user touchpoints.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Hanson Deck,** *App Developer, Studio*
         content_align: left
         actions: []
         actions_align: left
