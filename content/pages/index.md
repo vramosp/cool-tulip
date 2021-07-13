@@ -148,7 +148,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/hero.png
+        image: images/eleanor-carr.png
       - content: >-
           Alyvia really understands who our customers are and what tone of voice
           to use when communicating with them.
