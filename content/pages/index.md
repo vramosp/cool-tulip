@@ -133,7 +133,7 @@ sections:
 
 
           **Hanson Deck,** *App Developer, Studio*
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
