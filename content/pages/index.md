@@ -60,13 +60,11 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >
+        content: >+
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
 
-
-          ![](/\_static/app-assets/my-car-updates.jpg)
         actions:
           - label: See Writing Samples
             url: /faq
